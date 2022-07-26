@@ -7,7 +7,7 @@ const port = process.env.PORT || 4000;
 
 const adminJS = new AdminJS({
 	databases: [],
-	rootPath: "/admin",
+	rootPath: "/dashboard",
 	resources: [],
 });
 
